@@ -19,6 +19,7 @@ DB_NAME = "Tour_Capture_3D"
 COLLECTION_NAME = "media"
 
 
+
 security = HTTPBearer()
 
 # Initialize MongoDB client
